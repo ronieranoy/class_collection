@@ -1,6 +1,6 @@
 <?php
 
-class Parser {
+class Collection {
   
      Public function Curl_init ($f_parser_url) {
         $cSession = curl_init(); 
